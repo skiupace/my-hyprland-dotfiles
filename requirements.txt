@@ -1,0 +1,13 @@
+1. hyprland.
+2. xdg-portal-hyprland.
+3. kitty.
+4. waybar.
+5. wofi.
+6. swaylock.
+7. swaync.
+8. wlogout.
+9. fastfetch.
+10. mpv.
+11. {
+	[font not a package]: JetBrains Mono Nerdfont
+}

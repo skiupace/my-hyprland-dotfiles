@@ -1,0 +1,7 @@
+1. yay.
+2. mtpfs.
+3. jmtpfs.
+4. gvfs-mtp.
+5. gvfs-gphoto2.
+6. thunar.
+7. vscodium.
